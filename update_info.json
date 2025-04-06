@@ -1,0 +1,10 @@
+{
+    "version": "1.0.1",
+    "updateURL": "https://example.com/download",
+    "changelog": [
+        "Yeni seviyeler eklendi",
+        "Hata düzeltmeleri yapıldı",
+        "Performans iyileştirildi"
+    ],
+    "forceUpdate": false
+}

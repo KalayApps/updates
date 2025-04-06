@@ -1,0 +1,10 @@
+{
+    "version": "1.1",
+    "updateURL": "https://play.google.com/store/apps/details?id=com.KalayApps.GoUp2DGame",
+    "changelog": [
+        "Yeni seviyeler eklendi",
+        "Hata düzeltmeleri yapıldı",
+        "Performans iyileştirildi"
+    ],
+    "forceUpdate": false
+}
